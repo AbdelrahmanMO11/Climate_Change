@@ -28,9 +28,12 @@ Datasets format : Comma Separated Values (CSV) & Excell Sheets
 <h3>1. Global Temperature </h3>
     
 Global Land and Ocean-and-Land Temperatures (GlobalTemperatures.csv):
-Other files include:
-Global Average Land Temperature by Country (GlobalLandTemperaturesByCountry.csv)
-Global Land Temperatures By City (GlobalLandTemperaturesByCity.csv)
+
+ Other files include:
+
+ Global Average Land Temperature by Country (GlobalLandTemperaturesByCountry.csv)
+
+ Global Land Temperatures By City (GlobalLandTemperaturesByCity.csv)
 
 You can find this dataset [Here](https://berkeleyearth.org/data/).
     
@@ -78,6 +81,8 @@ in preprocessing phase we removed nulls and grouped the data according to what w
  ## Modeling
  
  we used polynomial regression to predict the average temprature in the future if we sticked to the same sources of energy, ways of manufacture  ... etc. we use today
+
+
 ![image](https://user-images.githubusercontent.com/61950036/222568922-9ebec42b-6ed2-414a-a668-01d127686600.png)
 
 
