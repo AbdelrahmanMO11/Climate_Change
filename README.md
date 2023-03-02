@@ -14,9 +14,11 @@ In the end, we conclude how the temperature is rising fast, how greenhouse gasse
 
 
 ## Tech Stack 
-Programming Languages : Python 3.9
-Software Services: PowerBI
-Libraries : numpy , pandas , seaborn , matplotlib , datetime , chart_studio , plotly , colorlover , scipy , warnings , sklearn
+Programming Languages : Python 3.9.
+
+Software Services: PowerBI.
+
+Libraries : numpy , pandas , seaborn , matplotlib , datetime , chart_studio , plotly , colorlover , scipy , warnings and sklearn.
 
 ## Datasets Acquisition
 Datasets format : Comma Separated Values (CSV) & Excell Sheets
