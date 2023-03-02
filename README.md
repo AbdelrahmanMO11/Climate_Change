@@ -64,15 +64,19 @@ in preprocessing phase we removed nulls and grouped the data according to what w
  
  ![image](https://user-images.githubusercontent.com/61950036/222564365-e991769b-20fd-4489-83ac-eee609fb989d.png)
  
- ![image](https://user-images.githubusercontent.com/61950036/222564609-5912846a-e473-44ac-8e16-d60a36b3ddd3.png)
+ ![image](https://user-images.githubusercontent.com/61950036/222575403-9aac2764-4c76-408e-8d5d-b0c74dbc29c4.png)
 
- ![image](https://user-images.githubusercontent.com/61950036/222567747-97496801-c9c3-448b-afc0-040d4c6fb9f0.png)
+ 
  ![image](https://user-images.githubusercontent.com/61950036/222567901-c89a6884-0bb3-43c1-ac0b-a818671731a7.png)
+ 
+ ![image](https://user-images.githubusercontent.com/61950036/222575483-7657282c-edc7-4a5b-b09e-6d8f2b59cdc1.png)
+
 
  
  interactive visualization
- ![image](https://user-images.githubusercontent.com/61950036/222567272-4d9270b3-fd6d-4561-9ab5-59c6c8cc3cb2.png)
-
+ ![image](https://user-images.githubusercontent.com/61950036/222573840-04fcbb22-0b2e-49d0-bb26-393ea4cf56ca.png)
+ ![image](https://user-images.githubusercontent.com/61950036/222567747-97496801-c9c3-448b-afc0-040d4c6fb9f0.png)
+ 
 - Visualizations using PoweBI:
  we've made an interactive PowerBI file which gives the ability to analyze either a certian part of each dataset or the whole dataset 
  ![image](https://user-images.githubusercontent.com/61950036/222566732-5c032d6a-04d3-42f9-aa80-bcd6b8fd86e0.png)
@@ -80,7 +84,7 @@ in preprocessing phase we removed nulls and grouped the data according to what w
  
  ## Modeling
  
- we used polynomial regression to predict the average temprature in the future if we sticked to the same sources of energy, ways of manufacture  ... etc. we use today
+ we used polynomial regression to predict the average temprature in the future (2100) if we sticked to the same sources of energy, ways of manufacture  ... etc. we use today
 
 
 ![image](https://user-images.githubusercontent.com/61950036/222568922-9ebec42b-6ed2-414a-a668-01d127686600.png)
